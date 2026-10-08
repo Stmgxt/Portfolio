@@ -1,0 +1,115 @@
+[
+  {
+    "title": "Techsoft Digi",
+    "category": "SEO",
+    "tag": "Technical SEO \u00b7 Content",
+    "img": "techsoft-homepage",
+    "desc": "Website SEO work featuring technical configuration, sitemap and robots.txt documentation, and content optimization examples.",
+    "gallery": [
+      "techsoft-homepage",
+      "techsoft-sitemap",
+      "xml-sitemap",
+      "on-page-content"
+    ]
+  },
+  {
+    "title": "SEO Audits & Keyword Research",
+    "category": "SEO",
+    "tag": "Audit \u00b7 Research",
+    "img": "dua-ruqyah-audit",
+    "desc": "Examples of website audits, keyword opportunity research and competitive on-page/off-page analysis.",
+    "gallery": [
+      "dua-ruqyah-audit",
+      "keyword-research",
+      "technical-audit",
+      "competitor-research"
+    ]
+  },
+  {
+    "title": "E-commerce Technical SEO",
+    "category": "SEO",
+    "tag": "WordPress \u00b7 Technical SEO",
+    "img": "ecommerce-technical",
+    "desc": "Technical SEO configuration examples for an e-commerce environment.",
+    "gallery": [
+      "ecommerce-technical",
+      "technical-audit"
+    ]
+  },
+  {
+    "title": "A3 Sports",
+    "category": "Social Media",
+    "tag": "Social management \u00b7 Planning",
+    "img": "a3-facebook",
+    "desc": "Social media optimization, cross-platform content planning, Facebook page setup and Messenger automation examples.",
+    "gallery": [
+      "a3-facebook",
+      "a3-instagram",
+      "a3-content-calendar",
+      "a3-automation"
+    ]
+  },
+  {
+    "title": "Churi Ghor",
+    "category": "Social Media",
+    "tag": "Social creative \u00b7 Product design",
+    "img": "churi-01",
+    "desc": "Branded social media product creatives featuring handmade bangles.",
+    "gallery": [
+      "churi-01",
+      "churi-02",
+      "churi-03",
+      "churi-04"
+    ]
+  },
+  {
+    "title": "4Flow",
+    "category": "Social Media",
+    "tag": "B2B content \u00b7 Creative planning",
+    "img": "4flow-01",
+    "desc": "B2B supply-chain and logistics social graphics on optimization, sustainability and technology.",
+    "gallery": [
+      "4flow-01",
+      "4flow-02",
+      "4flow-03",
+      "4flow-04",
+      "4flow-05"
+    ]
+  },
+  {
+    "title": "Global Piks",
+    "category": "Social Media",
+    "tag": "E-commerce \u00b7 Content planning",
+    "img": "globalpiks-post-01",
+    "desc": "Cross-platform product content planning and social media post examples for consumer products.",
+    "gallery": [
+      "globalpiks-post-01",
+      "globalpiks-post-02",
+      "globalpiks-post-03",
+      "globalpiks-reel",
+      "globalpiks-calendar"
+    ]
+  },
+  {
+    "title": "Global Sync",
+    "category": "Social Media",
+    "tag": "Education \u00b7 Social content",
+    "img": "globalsync-03",
+    "desc": "Social media content planning and education-focused campaign creatives.",
+    "gallery": [
+      "globalsync-03",
+      "globalsync-01",
+      "globalsync-02"
+    ]
+  },
+  {
+    "title": "Meta Pixel Setup",
+    "category": "Tracking",
+    "tag": "Meta Pixel \u00b7 Event setup",
+    "img": "meta-pixel",
+    "desc": "A documented Meta Pixel events setup example.",
+    "gallery": [
+      "meta-pixel"
+    ]
+  }
+]
